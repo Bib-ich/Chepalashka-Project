@@ -1,0 +1,33 @@
+=== Диагностика API ALT Linux ===
+
+Тестирование эндпоинта: 
+Статус ответа: OK
+Ответ: <!DOCTYPE html>
+<html>
+<head>
+    <title>ALTRepo API</title>
+    
+<link media="screen" rel="stylesheet" type="text/css" href="/swaggerui/droid-sans.css" />
+<link media="screen" rel="stylesheet" type="...
+Полный ответ сохранен в файл: api_root.json
+
+Тестирование эндпоинта: export/
+Статус ответа: NotFound
+Ошибка: Not Found
+
+Тестирование эндпоинта: export/branch_names
+Статус ответа: NotFound
+Ошибка: Not Found
+
+Тестирование эндпоинта: export/repository_binaries/Sisyphus
+Статус ответа: NotFound
+Ошибка: Not Found
+
+Тестирование эндпоинта: export/repository_srpms/Sisyphus
+Статус ответа: NotFound
+Ошибка: Not Found
+
+Тестирование эндпоинта: export/branch_stats/Sisyphus
+Статус ответа: NotFound
+Ошибка: Not Found
+

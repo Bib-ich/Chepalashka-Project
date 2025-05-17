@@ -1,0 +1,111 @@
+[2025-05-16 17:40:25] ===== API Service Initialized =====
+[2025-05-16 17:40:25] Beginning search for FTBFS packages in ALT Linux
+[2025-05-16 17:40:25] Attempting to access Main Logs Page at URL: https://git.altlinux.org/beehive/logs/Sisyphus/
+[2025-05-16 17:40:26] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:26] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:26] Attempting to access Main Packages Page at URL: https://packages.altlinux.org/ru/sisyphus/
+[2025-05-16 17:40:27] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:27] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:27] Attempting to access Main API Page at URL: https://rdb.altlinux.org/api/
+[2025-05-16 17:40:28] Success! Received 3818 bytes of data.
+[2025-05-16 17:40:28] Response preview: <!DOCTYPE html>
+<html>
+<head>
+    <title>ALTRepo API</title>
+    
+<link media="screen" rel="styleshe...
+[2025-05-16 17:40:28] Attempting to access API Endpoint: export/repository_srpms/Sisyphus at URL: https://rdb.altlinux.org/api/export/repository_srpms/Sisyphus
+[2025-05-16 17:40:28] Failed. Status code: NotFound, Reason: Not Found
+[2025-05-16 17:40:28] Attempting to access API Endpoint: export/repository_binaries/Sisyphus at URL: https://rdb.altlinux.org/api/export/repository_binaries/Sisyphus
+[2025-05-16 17:40:28] Failed. Status code: NotFound, Reason: Not Found
+[2025-05-16 17:40:28] Attempting to access API Endpoint: export/branch_stats/Sisyphus at URL: https://rdb.altlinux.org/api/export/branch_stats/Sisyphus
+[2025-05-16 17:40:28] Failed. Status code: NotFound, Reason: Not Found
+[2025-05-16 17:40:28] Attempting to access API Endpoint: export/branch_tasks/Sisyphus at URL: https://rdb.altlinux.org/api/export/branch_tasks/Sisyphus
+[2025-05-16 17:40:28] Failed. Status code: NotFound, Reason: Not Found
+[2025-05-16 17:40:28] Attempting to access API Endpoint: export/build_news/Sisyphus at URL: https://rdb.altlinux.org/api/export/build_news/Sisyphus
+[2025-05-16 17:40:28] Failed. Status code: NotFound, Reason: Not Found
+[2025-05-16 17:40:28] Attempting to access API Endpoint: export/ftbfs/Sisyphus at URL: https://rdb.altlinux.org/api/export/ftbfs/Sisyphus
+[2025-05-16 17:40:29] Failed. Status code: NotFound, Reason: Not Found
+[2025-05-16 17:40:29] Attempting to access Package Logs: gcc at URL: https://git.altlinux.org/beehive/logs/Sisyphus/gcc/
+[2025-05-16 17:40:29] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:29] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:29] Attempting to access Package Page: gcc at URL: https://packages.altlinux.org/ru/sisyphus/srpms/gcc/
+[2025-05-16 17:40:29] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:29] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:29] Attempting to access Package Logs: python3 at URL: https://git.altlinux.org/beehive/logs/Sisyphus/python3/
+[2025-05-16 17:40:29] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:29] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:29] Attempting to access Package Page: python3 at URL: https://packages.altlinux.org/ru/sisyphus/srpms/python3/
+[2025-05-16 17:40:29] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:29] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:29] Attempting to access Package Logs: kf5-kio at URL: https://git.altlinux.org/beehive/logs/Sisyphus/kf5-kio/
+[2025-05-16 17:40:29] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:29] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:29] Attempting to access Package Page: kf5-kio at URL: https://packages.altlinux.org/ru/sisyphus/srpms/kf5-kio/
+[2025-05-16 17:40:30] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:30] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:30] Attempting to access Package Logs: nodejs at URL: https://git.altlinux.org/beehive/logs/Sisyphus/nodejs/
+[2025-05-16 17:40:30] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:30] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:30] Attempting to access Package Page: nodejs at URL: https://packages.altlinux.org/ru/sisyphus/srpms/nodejs/
+[2025-05-16 17:40:30] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:30] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:30] Attempting to access Package Logs: rust at URL: https://git.altlinux.org/beehive/logs/Sisyphus/rust/
+[2025-05-16 17:40:30] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:30] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:30] Attempting to access Package Page: rust at URL: https://packages.altlinux.org/ru/sisyphus/srpms/rust/
+[2025-05-16 17:40:30] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:30] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:30] Search completed. No FTBFS packages were found.
+[2025-05-16 17:40:30] This may be due to changes in the API structure, lack of failing packages at this time, or limited access to the required data.
+[2025-05-16 17:40:30] Please refer to log file for details on the attempted requests.
+[2025-05-16 17:40:30] For demonstration purposes, you may need to modify the code or use simulated data.
+[2025-05-16 17:40:31] Beginning search for FTBFS packages in ALT Linux
+[2025-05-16 17:40:31] Attempting to access Main Logs Page at URL: https://git.altlinux.org/beehive/logs/Sisyphus/
+[2025-05-16 17:40:31] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:31] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:31] Attempting to access Main Packages Page at URL: https://packages.altlinux.org/ru/sisyphus/
+[2025-05-16 17:40:32] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:32] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:32] Attempting to access Main API Page at URL: https://rdb.altlinux.org/api/
+[2025-05-16 17:40:32] Success! Received 3818 bytes of data.
+[2025-05-16 17:40:32] Response preview: <!DOCTYPE html>
+<html>
+<head>
+    <title>ALTRepo API</title>
+    
+<link media="screen" rel="styleshe...
+[2025-05-16 17:40:32] Attempting to access API Endpoint: export/repository_srpms/Sisyphus at URL: https://rdb.altlinux.org/api/export/repository_srpms/Sisyphus
+[2025-05-16 17:40:32] Failed. Status code: NotFound, Reason: Not Found
+[2025-05-16 17:40:32] Attempting to access API Endpoint: export/repository_binaries/Sisyphus at URL: https://rdb.altlinux.org/api/export/repository_binaries/Sisyphus
+[2025-05-16 17:40:32] Failed. Status code: NotFound, Reason: Not Found
+[2025-05-16 17:40:32] Attempting to access API Endpoint: export/branch_stats/Sisyphus at URL: https://rdb.altlinux.org/api/export/branch_stats/Sisyphus
+[2025-05-16 17:40:32] Failed. Status code: NotFound, Reason: Not Found
+[2025-05-16 17:40:32] Attempting to access API Endpoint: export/branch_tasks/Sisyphus at URL: https://rdb.altlinux.org/api/export/branch_tasks/Sisyphus
+[2025-05-16 17:40:32] Failed. Status code: NotFound, Reason: Not Found
+[2025-05-16 17:40:32] Attempting to access API Endpoint: export/build_news/Sisyphus at URL: https://rdb.altlinux.org/api/export/build_news/Sisyphus
+[2025-05-16 17:40:33] Failed. Status code: NotFound, Reason: Not Found
+[2025-05-16 17:40:33] Attempting to access API Endpoint: export/ftbfs/Sisyphus at URL: https://rdb.altlinux.org/api/export/ftbfs/Sisyphus
+[2025-05-16 17:40:33] Failed. Status code: NotFound, Reason: Not Found
+[2025-05-16 17:40:33] Attempting to access Package Logs: gcc at URL: https://git.altlinux.org/beehive/logs/Sisyphus/gcc/
+[2025-05-16 17:40:33] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:33] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:33] Attempting to access Package Page: gcc at URL: https://packages.altlinux.org/ru/sisyphus/srpms/gcc/
+[2025-05-16 17:40:33] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:33] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:33] Attempting to access Package Logs: python3 at URL: https://git.altlinux.org/beehive/logs/Sisyphus/python3/
+[2025-05-16 17:40:33] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:33] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:33] Attempting to access Package Page: python3 at URL: https://packages.altlinux.org/ru/sisyphus/srpms/python3/
+[2025-05-16 17:40:33] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:33] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:33] Attempting to access Package Logs: kf5-kio at URL: https://git.altlinux.org/beehive/logs/Sisyphus/kf5-kio/
+[2025-05-16 17:40:34] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:34] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:34] Attempting to access Package Page: kf5-kio at URL: https://packages.altlinux.org/ru/sisyphus/srpms/kf5-kio/
+[2025-05-16 17:40:34] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:34] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:34] Attempting to access Package Logs: nodejs at URL: https://git.altlinux.org/beehive/logs/Sisyphus/nodejs/
+[2025-05-16 17:40:34] Success! Received 3938 bytes of data.
+[2025-05-16 17:40:34] Response preview: <!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="styl...
+[2025-05-16 17:40:34] Attempting to access Package Page: nodejs at URL: https://packages.altlinux.org/ru/sisyphus/srpms/nodejs/
